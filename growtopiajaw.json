@@ -1,0 +1,17 @@
+{
+  "app": {
+    "version": "8.0.7",
+    "versionCode": "v8.0.7",
+    "link": "https://github.com/GrowtopiaJaw/MagiskBuilds/raw/master/MagiskManager-v8.0.7.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "21.4",
+    "versionCode": "v21.4",
+    "link": "https://github.com/GrowtopiaJaw/MagiskBuilds/raw/master/Magisk-v21.4.zip",
+    "note": "",
+    "md5": "ee6dd05579776e7de3a6077087846e53"
+  },
+  "uninstaller": {
+    "link": "https://github.com/GrowtopiaJaw/MagiskBuilds/raw/master/Magisk-uninstaller-20210117.zip"
+}
